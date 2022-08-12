@@ -20,7 +20,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 This is a simple order summary web app created using HTML and CSS. The CSS featured box-sizing and variables. 
 The app has card, card title and container components with link images and buttons as contents.
 ### The challenge
-- To build out order summary card component and get it looking as close to this: design [web app design](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+- To build out order summary card component and get it looking as close to this [web app design](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 Users should be able to:
 - See hover states for interactive elements
 
@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshot
 
 ![](design/Order%20Summary%20Component.png)
-![](design/active-states2.jpg.png)
+![](design/active-states.jpg.png)
 
 ## My process
 - Decompose the design into manageble components
