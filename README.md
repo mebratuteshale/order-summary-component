@@ -21,6 +21,7 @@ This is a simple order summary web app created using HTML and CSS. The CSS featu
 The app has card, card title and container components with link images and buttons as contents.
 ### The challenge
 - To build out order summary card component and get it looking as close to this [web app design](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+
 Users should be able to:
 - See hover states for interactive elements
 
