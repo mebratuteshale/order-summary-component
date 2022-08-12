@@ -66,4 +66,4 @@ On this project I have learnt about:
 - Frontend Mentor - [@mebratuteshale](https://www.frontendmentor.io/profile/mebratuteshale)
 
 ## Acknowledgments
-My gratitude to Madison Kanna who created a wonderful video about the project helped me to join frontendmentor.
+My gratitude to Madison Kanna who created a wonderful video of HTML and CSS.
