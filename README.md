@@ -19,7 +19,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-
+This is a simple order summary web app created using HTML and CSS. The CSS featured box-sizing and variables. 
+The app has card, card title and container components with link images and buttons as contents.
 ### The challenge
 
 Users should be able to:
