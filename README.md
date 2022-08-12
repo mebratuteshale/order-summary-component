@@ -51,8 +51,6 @@ On this project I have learnt about:
 
 
 ### Continued development
-
-I want to learn about certain css properties and HTML layout. My future focus would be:
 - Layout (Flex, Box Model, div)
 - Transition and Transform properties.
 - Positions (z-index, absolute, relative,...)
